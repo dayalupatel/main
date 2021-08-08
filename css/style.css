@@ -340,10 +340,11 @@ img:hover{
     padding: 1rem;
     border-radius: .5rem;
     font-weight: var(--font-medium);
+    transition: .5s;
 }
 .btn:hover{
     background-color: var(--first-color-alt);
-    transform: scale(1.08);
+    transform: scale(1.05);
 }
 .btn_icon{
     font-size: 1.25rem;
