@@ -343,6 +343,7 @@ img:hover{
 }
 .btn:hover{
     background-color: var(--first-color-alt);
+    transform: scale(1.08);
 }
 .btn_icon{
     font-size: 1.25rem;
