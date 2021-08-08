@@ -133,7 +133,7 @@ img{
     transition: .4s;
 }
 img:hover{
-    transform: translateY(-8px);
+    transform: scale(1.1);
 }
 
 /*==================== REUSABLE CSS CLASSES ====================*/
