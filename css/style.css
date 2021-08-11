@@ -795,7 +795,7 @@ img:hover{
     color: var(--first-color);
     margin-right: var(--mb-0-75);
 }
-#call-icon,
+/* #call-icon,
 #whatsapp-icon{
     animation: blink .8s linear infinite;
 
@@ -803,13 +803,13 @@ img:hover{
 @keyframes blink{
     0%,100%{
         color: var(--first-color);
-        /* background-color: red; */
         transform: rotate(20deg);
     }
     90%{
         color: var(--first-color-second);
     }
-}
+}  */
+
 .contact_title{
     font-size: var(--h3-font-size);
     font-weight: var(--font-medium);
